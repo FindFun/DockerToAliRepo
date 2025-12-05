@@ -16,8 +16,8 @@
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
-redis:7.2.4
-mysql:8.0.19
-nacos/nacos-server:v2.4.3
-alpine
+#redis:7.2.4
+#mysql:8.0.19
+#nacos/nacos-server:v2.4.3
+#alpine
 
