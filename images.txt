@@ -20,4 +20,5 @@
 #mysql:8.0.19
 #nacos/nacos-server:v2.4.3
 #alpine
+seate:1.6.1
 
